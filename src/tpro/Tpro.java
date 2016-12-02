@@ -115,7 +115,6 @@ public class Tpro extends JFrame{
      */
     public static void main(String[] args) {
         Tpro gui = new Tpro();
-        System.out.println("ssd");
         gui.setVisible(true);
     }
 }
